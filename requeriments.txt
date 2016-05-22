@@ -1,0 +1,20 @@
+amqp==1.4.9
+anyjson==0.3.3
+billiard==3.3.0.23 
+cffi==1.6.0
+Django==1.9.6
+django-cors-headers==1.1.0
+djangorestframework==3.3.3
+kombu==3.0.35
+#psycopg2==2.6.1
+pycparser==2.14
+#Pillow==3.2.0
+#PyJWT==1.4.0
+pytz==2016.4 
+requests==2.10.0
+six==1.10.0  
+ 
+
+
+ # problemas con psycopg2
+ # sudo apt-get install libpq-dev python-dev
